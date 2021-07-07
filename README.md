@@ -1,1 +1,1 @@
-# MyFIrstMuleProject
+# MyFirstMuleProject
